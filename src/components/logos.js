@@ -1,4 +1,5 @@
 "use client";
+import React, { useState, useEffect } from 'react';
 import styled from "styled-components";
 import { CopyIcon, TwitterIcon, UILogosHeart } from "./icons";
 import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/ReuseableStyle";
@@ -6,9 +7,38 @@ import Image from "next/image";
 import LogoBox from "./logo-box";
 
 export default function Logos() {
+  const [itemPerRow, setItemPerRow] = useState(2); // Initialize with mobile value
   const someButton = () => {
     console.log('Button clicked');
   }
+  let currentRow = 0; // Initialize the current row
+  const LogosData = [1, 2, 4, 5, 6, 7, 8, 12, 11, 7, 12, 19];
+
+  useEffect(() => {
+    const handleResize = () => {
+      // Update itemsPerRow based on screen size
+      if (window.innerWidth >= 768) {
+        // Desktop view
+        setItemPerRow(4);
+      } else {
+        // Mobile view
+        setItemPerRow(2);
+      }
+    };
+
+    // Attach the event listener for window resize
+    window.addEventListener('resize', handleResize);
+
+    // Initial call to set itemsPerRow based on the initial screen size
+    handleResize();
+
+    // Cleanup the event listener on component unmount
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []); // Empty dependency array ensures that the effect runs only once on mount
+
+
   return (
     <LogosSection>
       <Container>
@@ -23,87 +53,30 @@ export default function Logos() {
           <Seprator >
           </Seprator>
           <LogoGrid>
-            <LogoBox cross1="left-right" cross2="left-bottom" seprator="absolute right" imgSrc="/logos/radiyal-m-c.png" />
-            <LogoBox cross1="left-right" cross2="left-bottom" seprator="absolute left" imgSrc="/logos/radiyal-t-c.png" />
-            <LogoBox cross1="left-right" cross2="left-bottom" seprator="absolute left" imgSrc="/logos/radiyal-m-c.png" />
-            <LogoItem className="border-right">
-              <LogoWrap>
-                <Content>
-                  <img src="/logos/radiyal-m-c.png" />
-                </Content>
-                <Overlay>
-                  <h5>CLICK TO COPY</h5>
-                  <DownloadGroup className="copy-btn">
-                    <BoxButton onClick={someButton}><CopyIcon height={16} width={16} /> SVG</BoxButton>
-                    <BoxButton><CopyIcon height={16} width={16} /> PNG</BoxButton>
-                  </DownloadGroup>
-                </Overlay>
-              </LogoWrap>
-              <BoxSeprator className="absolute left" />
-              <BoxEm className="left-right" />
-            </LogoItem>
+            {LogosData.map((data, i) => {
+              if (i % itemPerRow === 0) {
+                // Increment the currentRow when a new row starts
+                currentRow++;
+                // Print a message or perform any action when a new row starts
+                console.log(`New row (${currentRow}) started at index ${i}`);
+              }
+              // Determine if it's the first or last box in the row
+              const isFirstInRow = i % itemPerRow === 0;
+              const isLastInRow = i % itemPerRow === itemPerRow - 1 || i === LogosData.length - 1;
+              const isLastRow = currentRow === Math.ceil(LogosData.length / itemPerRow);
 
-            <LogoItem className="border-right">
-              <LogoWrap>
-                <Content>
-                  <img src="/logos/radiyal-t-c.png" />
-                </Content>
-              </LogoWrap>
-              <BoxSeprator className="absolute" />
-              <BoxEm className="right" />
-            </LogoItem>
-            <LogoItem className="border-right">
-              <LogoWrap>
-                <Content>
-                  <img src="/logos/radiyal-t-c.png" />
-                </Content>
-              </LogoWrap>
-              <BoxSeprator className="absolute" />
-              <BoxEm className="right" />
-            </LogoItem>
-            <LogoItem>
-              <LogoWrap>
-                <Content>
-                  <img src="/logos/radiyal-m-c.png" />
-                </Content>
-              </LogoWrap>
-              <BoxSeprator className="absolute right" />
-              <BoxEm className="right" />
-            </LogoItem>
+              return (<>
 
-            {/* Row 2 */}
-            <LogoItem className="border-right">
-              <LogoWrap>
-                <Content>
-                  HEre text here
-                </Content>
-              </LogoWrap>
-              <BoxSeprator className="absolute left" />
-              <BoxEm className="left-right" />
-            </LogoItem>
-
-            <LogoItem className="border-right">
-              <LogoWrap>
-              </LogoWrap>
-              <BoxSeprator className="absolute" />
-              <BoxEm className="right" />
-            </LogoItem>
-            <LogoItem className="border-right">
-              <LogoWrap>
-              </LogoWrap>
-              <BoxSeprator className="absolute" />
-              <BoxEm className="right" />
-            </LogoItem>
-            <LogoItem>
-              <LogoWrap>
-              </LogoWrap>
-              <BoxSeprator className="absolute right" />
-              <BoxEm className="right" />
-            </LogoItem>
-
-
-
-
+                <LogoBox
+                  imgSrc="/logos/radiyal-t-c.png"
+                  data={data}
+                  row={currentRow}
+                  isFirstInRow={isFirstInRow}
+                  isLastInRow={isLastInRow}
+                  isLastRow={isLastRow}
+                />
+              </>)
+            })}
           </LogoGrid>
         </LogosWrap>
       </Container>
@@ -126,13 +99,13 @@ const ToggleBar = styled.div`
   background: var(--white);
   display: flex;
   justify-content: center;
-`
+`;
 
 const ToggleWrap = styled.div`
   display: flex;
   align-items: center;
-  gap:4px
-`
+  gap:4px;
+`;
 
 const Toggle = styled.a`
   font-size: 14px;
@@ -146,13 +119,16 @@ const Toggle = styled.a`
     color: var(--white);
     background: var(--main-black);
   }
-`
+`;
 
 const LogoGrid = styled.div`
   position: relative;
   display: grid;
   grid-template-columns: repeat(4,1fr);
   align-items: center;
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(2,1fr);
+  }
 `
 
 const LogoItem = styled.div`

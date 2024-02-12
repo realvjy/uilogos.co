@@ -56,6 +56,10 @@ const ButtonGroup = styled.div`
     margin-top: 24px;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 20px;
+    @media screen and (max-width: 768px) {
+        flex-direction: column;
+    }
 `
 

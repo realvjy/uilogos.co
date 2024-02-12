@@ -8,6 +8,10 @@ export const Container = styled.div`
   width: var(--max-container-width);
   margin: 0 auto;
   overflow: visible;
+  @media screen and (max-width: 768px) {
+    width: 100%;
+    overflow: hidden;
+  }
 `;
 
 
@@ -231,6 +235,10 @@ export const LinkButton = styled.a`
   gap: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
+  @media screen and (max-width: 768px) {
+     min-width: 220px;
+     justify-content: center;
+  }
   &.blue-btn{
     background: var(--blue);
     color: var(--white);

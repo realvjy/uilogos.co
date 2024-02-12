@@ -5,33 +5,31 @@ import { DownloadIcon, FigmaIcon, GithubIcon, TwitterIcon, UILogosHeart, CopyIco
 import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/ReuseableStyle";
 export default function LogoBox(props) {
 
-    console.log(props);
-    const someButton = () => {
-        console.log('Button clicked');
-    }
-    return (
-        <LogoSection>
-            <LogoItem className="border-right">
-                <LogoWrap>
-                    <Content>
-                        <img src={props.imgSrc} />
-                    </Content>
-                    <Overlay>
-                        <h5>CLICK TO COPY</h5>
-                        <DownloadGroup className="copy-btn">
-                            <BoxButton onClick={someButton}><CopyIcon height={16} width={16} /> SVG</BoxButton>
-                            <BoxButton><CopyIcon height={16} width={16} /> PNG</BoxButton>
-                        </DownloadGroup>
-                    </Overlay>
-                </LogoWrap>
-                <BoxSeprator className={props.Seprator} />
-                <BoxEm className={props.cross2} />
-                <BoxEm className={props.cross1} />
-                {/* <BoxSeprator className="absolute left" />
-                <BoxEm className="left-right" /> */}
-            </LogoItem>
-        </LogoSection>
-    )
+  console.log(props);
+  const someButton = () => {
+    console.log('Button clicked');
+  }
+  return (
+    <LogoSection>
+      <LogoItem className={props.isLastInRow ? "" : "border-right"}>
+        <LogoWrap>
+          <Content>
+            <img src={props.imgSrc} />
+          </Content>
+          <Overlay>
+            <h5>CLICK TO COPY</h5>
+            <DownloadGroup className="copy-btn">
+              <BoxButton onClick={someButton}><CopyIcon height={16} width={16} /> SVG</BoxButton>
+              <BoxButton><CopyIcon height={16} width={16} /> PNG</BoxButton>
+            </DownloadGroup>
+          </Overlay>
+        </LogoWrap>
+        <BoxSeprator className={props.isFirstInRow ? "absolute left" : props.isLastInRow ? "absolute right" : "absolute"} />
+        <BoxEm className={props.isFirstInRow ? "left-right" : "right"} />
+        {props.isLastRow && <BoxEm className={props.isFirstInRow ? "left-right-bottom" : "right-bottom"} />}
+      </LogoItem>
+    </LogoSection>
+  )
 }
 
 const LogoSection = styled.div`
