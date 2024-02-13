@@ -244,17 +244,17 @@ export const LinkButton = styled.a`
     color: var(--white);
     box-shadow: 0px 0px 0px 1px #264DDB, 0px 1px 3px rgba(20, 52, 135, 0.6), inset 0px -3px 0.4px #234DE2;
     &:hover{
-        opacity: 0.9;
+        opacity: 0.8;
         box-shadow: 0px 0px 0px 1px #264DDB, 0px 1px 3px rgba(20, 52, 135, 0.6), inset 0px -1px 0.4px #234DE2;
     }
   }
   &.white-btn{
       background: var(--white);
       color: var(--main-black);
-      box-shadow: 0px 0px 0px 1px #EBEBEB, 0px 1px 3px rgba(143, 143, 143, 0.3), inset 0px -3px 0.4px rgba(62, 62, 62, 0.04);
+      box-shadow: 0px 0px 0px 1px #EBEBEB, 0px 1px 3px rgba(143, 143, 143, 0.3), inset 0px -3px 0.4px rgba(62, 62, 62, 0.05);
       &:hover{
-        opacity: 0.9;
-        box-shadow: 0px 0px 0px 1px #EBEBEB, 0px 1px 3px rgba(143, 143, 143, 0.3), inset 0px -1px 0.4px rgba(62, 62, 62, 0.04);
+        opacity: 0.8;
+        box-shadow: 0px 0px 0px 1px #EBEBEB, 0px 1px 3px rgba(143, 143, 143, 0.3), inset 0px -1px 0.4px rgba(62, 62, 62, 0.05);
       }
     }
 `;

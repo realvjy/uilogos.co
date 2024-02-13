@@ -51,7 +51,7 @@ export default function Faq() {
               open={openIndex === 2}
             >
               <p >
-                This is shared under the CC-BY-4 license. You are free to use it for both commercial and personal projects.
+                This is shared under the <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC-BY-4.0</a> license. You are free to use it for both commercial and personal projects.
               </p>
             </Collapsible>
 

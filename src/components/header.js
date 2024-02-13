@@ -12,7 +12,7 @@ export default function Header() {
                     <h1>Free Professional Logo Placeholders</h1>
                     <ButtonGroup>
                         <LinkButton href="https://www.figma.com/community/plugin/1120667703468196103" className="blue-btn"><FigmaIcon />figma plugin</LinkButton>
-                        <LinkButton className="white-btn"><DownloadIcon /> Download .zip</LinkButton>
+                        <LinkButton href="download/uilogos-v2.0.zip" download="uilogos-v2.0.zip" className="white-btn"><DownloadIcon /> Download .zip</LinkButton>
                         <LinkButton href="https://github.com/realvjy/uilogos.co" className="white-btn"><GithubIcon /> Get on github</LinkButton>
                     </ButtonGroup>
                 </HeadWrap>
