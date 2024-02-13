@@ -1,6 +1,7 @@
 'use client'
 
 import Faq from "@/components/faq";
+import Footer from "@/components/footer";
 import Header from "@/components/header";
 import { TwitterIcon, UILogosHeart } from "@/components/icons";
 import Logos from "@/components/logos";
@@ -16,6 +17,7 @@ export default function Home() {
       <Header />
       <Logos />
       <Faq />
+      <Footer />
     </main>
   );
 }

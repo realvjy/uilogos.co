@@ -10,14 +10,22 @@ import { getFullList } from '@/lib/uilogos';
 
 export default function Logos() {
   const [itemPerRow, setItemPerRow] = useState(2); // Initialize with mobile value
-  const someButton = () => {
-    console.log('Button clicked');
-  }
-  let currentRow = 0; // Initialize the current row
+  const [filterType, setFilterType] = useState('');
 
+  const handleFilter = (type) => {
+    setFilterType(type);
+  };
+
+  const handleResetFilter = () => {
+    setFilterType('');
+  };
+
+
+  let currentRow = 0; // Initialize the current row
   let uilogos = getFullList(LogoData);
 
-  console.log(uilogos);
+  uilogos = uilogos.filter(item => !filterType || item.type === filterType);
+
   useEffect(() => {
     const handleResize = () => {
       // Update itemsPerRow based on screen size
@@ -49,9 +57,12 @@ export default function Logos() {
         <LogosWrap className="border-left-right">
           <ToggleBar>
             <ToggleWrap>
-              <Toggle className="active">All</Toggle>
-              <Toggle >Logomark</Toggle>
-              <Toggle >Logotype</Toggle>
+              <Toggle className={!filterType ? 'active' : ''}
+                onClick={handleResetFilter}>All</Toggle>
+              <Toggle className={filterType === 'mark' ? 'active' : ''}
+                onClick={() => handleFilter('mark')}>Logomark</Toggle>
+              <Toggle className={filterType === 'type' ? 'active' : ''}
+                onClick={() => handleFilter('type')}>Logotype</Toggle>
             </ToggleWrap>
           </ToggleBar>
           <Seprator >
@@ -61,24 +72,23 @@ export default function Logos() {
               if (i % itemPerRow === 0) {
                 // Increment the currentRow when a new row starts
                 currentRow++;
-                // Print a message or perform any action when a new row starts
-                console.log(`New row (${currentRow}) started at index ${i}`);
               }
               // Determine if it's the first or last box in the row
               const isFirstInRow = i % itemPerRow === 0;
               const isLastInRow = i % itemPerRow === itemPerRow - 1 || i === uilogos.length - 1;
               const isLastRow = currentRow === Math.ceil(uilogos.length / itemPerRow);
 
-              return (<>
-
-                <LogoBox
-                  data={data}
-                  row={currentRow}
-                  isFirstInRow={isFirstInRow}
-                  isLastInRow={isLastInRow}
-                  isLastRow={isLastRow}
-                />
-              </>)
+              return (
+                <LogoContainer key={i}> {/* Add key prop */}
+                  <LogoBox
+                    data={data}
+                    row={currentRow}
+                    isFirstInRow={isFirstInRow}
+                    isLastInRow={isLastInRow}
+                    isLastRow={isLastRow}
+                  />
+                </LogoContainer>
+              );
             })}
           </LogoGrid>
         </LogosWrap>
@@ -88,6 +98,9 @@ export default function Logos() {
 }
 
 const LogosSection = styled.div`
+
+`
+const LogoContainer = styled.div`
 
 `
 
@@ -117,6 +130,10 @@ const Toggle = styled.a`
   letter-spacing: 0.2px;
   padding: 8px 18px;
   border-radius: 16px;
+  background-color: transparent;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
   cursor: default;
   &.active{
     color: var(--white);
@@ -129,6 +146,7 @@ const LogoGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(4,1fr);
   align-items: center;
+  transition: all 0.3s ease;
   @media screen and (max-width: 768px) {
     grid-template-columns: repeat(2,1fr);
   }

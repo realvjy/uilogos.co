@@ -1,27 +1,66 @@
 "use client";
 import styled from "styled-components";
 import { DownloadIcon, FigmaIcon, GithubIcon, TwitterIcon, UILogosHeart, CopyIcon } from "./icons";
+import React, { useState, useEffect } from 'react';
 
 import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/ReuseableStyle";
 export default function LogoBox(props) {
 
-  console.log(props);
-  const someButton = () => {
-    console.log('Button clicked');
-  }
+  const [infoText, setInfoText] = useState('CLICK TO COPY');
   const colorType = props.data.style === "black" ? "-black" : "";
+
+  const svgSrc = `logos/${props.data.type}/${props.data.name}${colorType}.svg`;
+  const pngSrc = `logos/${props.data.type}/${props.data.name}${colorType}.png`;
+
+  const handleCopySvg = () => {
+    fetch(svgSrc)
+      .then(response => response.text())
+      .then(svgCode => {
+        navigator.clipboard.writeText(svgCode)
+          .then(() => {
+            setInfoText('SVG COPIED');
+            setTimeout(() => {
+              setInfoText('CLICK TO COPY');
+            }, 1400);
+          })
+          .catch((error) => {
+            console.error('Unable to copy SVG code to clipboard:', error);
+          });
+      })
+      .catch(error => {
+        console.error('Error fetching SVG:', error);
+      });
+  };
+
+  const handleCopyPng = async () => {
+    try {
+      const response = await fetch(pngSrc);
+      const blob = await response.blob();
+
+      const item = new ClipboardItem({ 'image/png': blob });
+      await navigator.clipboard.write([item]);
+
+      setInfoText('PNG COPIED');
+      setTimeout(() => {
+        setInfoText('CLICK TO COPY');
+      }, 1400);
+    } catch (error) {
+      console.error('Unable to copy image to clipboard:', error);
+    }
+  };
+
   return (
     <LogoSection>
       <LogoItem className={props.isLastInRow ? "" : "border-right"}>
         <LogoWrap>
           <Content>
-            <img src={"logos/" + `${props.data.type}` + "/" + `${props.data.name}` + colorType + ".png"} />
+            <img src={pngSrc} />
           </Content>
           <Overlay>
-            <h5>CLICK TO COPY</h5>
+            <h5>{infoText}</h5>
             <DownloadGroup className="copy-btn">
-              <BoxButton onClick={someButton}><CopyIcon height={16} width={16} /> SVG</BoxButton>
-              <BoxButton><CopyIcon height={16} width={16} /> PNG</BoxButton>
+              <BoxButton onClick={handleCopySvg}><CopyIcon height={16} width={16} /> SVG</BoxButton>
+              <BoxButton onClick={handleCopyPng}><CopyIcon height={16} width={16} /> PNG</BoxButton>
             </DownloadGroup>
           </Overlay>
         </LogoWrap>
@@ -69,7 +108,10 @@ const Content = styled.div`
   
   justify-content: center;
   img{
-    height: 40px;
+    height: 36px;
+    @media screen and (max-width: 768px) {
+      height: 30px;
+    }
   }
 `
 

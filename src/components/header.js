@@ -11,9 +11,9 @@ export default function Header() {
                     <h3>25+ logos for personal and commercial use</h3>
                     <h1>Free Professional Logo Placeholders</h1>
                     <ButtonGroup>
-                        <LinkButton className="blue-btn"><FigmaIcon /> Get figma</LinkButton>
+                        <LinkButton href="https://www.figma.com/community/plugin/1120667703468196103" className="blue-btn"><FigmaIcon />figma plugin</LinkButton>
                         <LinkButton className="white-btn"><DownloadIcon /> Download .zip</LinkButton>
-                        <LinkButton className="white-btn"><GithubIcon /> Get on github</LinkButton>
+                        <LinkButton href="https://github.com/realvjy/uilogos.co" className="white-btn"><GithubIcon /> Get on github</LinkButton>
                     </ButtonGroup>
                 </HeadWrap>
                 <Seprator >
@@ -30,7 +30,7 @@ const HeadSection = styled.div`
 
 const HeadWrap = styled.div`
   display: flex;
-  padding: 40px 20px;
+  padding: 60px 20px;
   flex-direction: column;
   justify-content: center;
   h3{

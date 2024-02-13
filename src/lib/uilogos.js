@@ -20,10 +20,10 @@ export function getFullList(logoData) {
         const row = []
         some.map((element) => {
             const finalElement = {
+                id: id,
                 name: rowData.name,
                 type: element[0],
-                style: element[1],
-                id: id
+                style: element[1]
             };
             row.push(finalElement)
             id += 1;

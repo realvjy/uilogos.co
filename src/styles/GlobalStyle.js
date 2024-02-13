@@ -18,6 +18,7 @@ const GlobalStyle = createGlobalStyle`
   
   --main-black: #272727;
   --main-black-a2: rgba(39,39,39, 0.25);
+  --text-black2: #626262;
   --blue: #3962F5;
 }
 ::selection {
@@ -75,7 +76,90 @@ const GlobalStyle = createGlobalStyle`
     }
   }
   
-
+  .Collapsible{
+    font-size: 22px;
+    font-weight: 500;
+    padding: 20px 0;
+    @media screen and (max-width: 768px) {
+      font-size: 18px;
+    }
+    position: relative;
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 1px; /* Set the height of the bottom border */
+      background: radial-gradient(50% 50% at 50% 50%, #EBEBEB 0%, rgba(235, 235, 235, 0) 100%);
+    }
+    &:last-child{
+      &::after{
+        background: none;
+        height: 0;
+      }
+    }
+    .details{
+      ul{
+        display: flex;
+        flex-direction: column;
+        li{
+          font-size: 16px;
+          margin: 8px 0;
+          font-weight: 400;
+          color: var(--text-black2);
+        }
+      }
+    }
+    p{  
+        margin-top: 24px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 140%;
+        opacity: 0.6;
+        color: var(--text-black2);
+        span{
+          color: var(--white);
+          opacity: 0.6;
+        }
+        @media screen and (max-width: 768px) {
+          width: auto;
+          font-size: 16px;
+        }
+    }
+    .collapsible-title{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transition: all 0.3s ease;
+      span{
+        font-size: 20px;
+        cursor: pointer;
+        font-weight: 500;
+        color: var(--text-black2);
+        @media screen and (max-width: 768px) {
+          width: auto;
+          font-size: 18px;
+        }
+      }
+    }
+    .Collapsible__trigger{
+        display: flex;
+        justify-content: space-between;
+        cursor: pointer;
+        .plus-icon{
+          color: var(--blue);
+          transition: all 0.3s ease;
+          transform: scale(0.8);
+        }
+        &.is-open{
+            transition: all 0.3s ease;
+            .plus-icon{
+                transform: scale(0.8) rotateZ(45deg); 
+            }
+        }
+    }
+}
   
 `;
 export default GlobalStyle;
