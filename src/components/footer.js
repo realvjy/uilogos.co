@@ -1,6 +1,6 @@
 "use client";
 import styled from "styled-components";
-import { DownloadIcon, FigmaIcon, GithubIcon, TwitterIcon, UILogosHeart } from "./icons";
+import { DownloadIcon, FigmaIcon, GithubIcon, Realvjy, TwitterIcon, UILogosHeart } from "./icons";
 import { Container, Seprator, LinkButton } from "@/styles/ReuseableStyle";
 
 export default function Footer() {
@@ -8,7 +8,7 @@ export default function Footer() {
         <FootSection>
             <Container>
                 <FootWrap className="border-left-right">
-                    <Credit><h3>made by <a href="https://x.com/realvjy">@realvjy</a> at <a href="https://overlayz.studio">overlayz <TwitterIcon /></a></h3></Credit>
+                    <Credit><h3>made by <a href="https://x.com/realvjy"> <Realvjy /> </a> at <a href="https://overlayz.studio">overlayz <TwitterIcon /></a></h3></Credit>
                 </FootWrap>
             </Container>
         </FootSection>
@@ -50,6 +50,10 @@ const Credit = styled.div`
         .tw-icon{
             transform: scale(0.8);
         }
+    }
+    .realvjy-icon{
+        margin: 0 4px;
+        transform: scale(1.2);
     }
     @media screen and (max-width: 768px) {
         flex-direction: column;
