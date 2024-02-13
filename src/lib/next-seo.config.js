@@ -1,4 +1,4 @@
-const nextSeoConfig = {
+export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
@@ -23,5 +23,3 @@ const nextSeoConfig = {
         cardType: 'summary_large_image',
     },
 };
-
-export default nextSeoConfig;

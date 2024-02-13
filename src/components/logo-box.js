@@ -7,6 +7,7 @@ import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/Reu
 export default function LogoBox(props) {
 
   const [infoText, setInfoText] = useState('CLICK TO COPY');
+  const [isCopy, setIsCopy] = useState(false);
   const colorType = props.data.style === "black" ? "-black" : "";
 
   const svgSrc = `logos/${props.data.type}/${props.data.name}${colorType}.svg`;
@@ -19,8 +20,10 @@ export default function LogoBox(props) {
         navigator.clipboard.writeText(svgCode)
           .then(() => {
             setInfoText('SVG COPIED');
+            setIsCopy(true);
             setTimeout(() => {
               setInfoText('CLICK TO COPY');
+              setIsCopy(false);
             }, 1400);
           })
           .catch((error) => {
@@ -41,8 +44,10 @@ export default function LogoBox(props) {
       await navigator.clipboard.write([item]);
 
       setInfoText('PNG COPIED');
+      setIsCopy(true);
       setTimeout(() => {
         setInfoText('CLICK TO COPY');
+        setIsCopy(false);
       }, 1400);
     } catch (error) {
       console.error('Unable to copy image to clipboard:', error);
@@ -57,7 +62,7 @@ export default function LogoBox(props) {
             <img src={pngSrc} />
           </Content>
           <Overlay>
-            <h5>{infoText}</h5>
+            <h5 className={isCopy ? "copied" : ""}>{infoText}</h5>
             <DownloadGroup className="copy-btn">
               <BoxButton onClick={handleCopySvg}><CopyIcon height={16} width={16} /> SVG</BoxButton>
               <BoxButton onClick={handleCopyPng}><CopyIcon height={16} width={16} /> PNG</BoxButton>
@@ -141,9 +146,12 @@ const Overlay = styled.div`
     letter-spacing: 1.8px;
     font-weight: 500;
     color: var(--main-black-a2);
-    transform: translateY(-20px);
+    transform: translateY(-20px) scale(0.8);
     opacity: 0;
     transition: all 0.3s ease;
+    &.copied{
+      color: var(--blue);
+    }
   }
   .copy-btn{
     transform: translateY(20px);
@@ -154,6 +162,10 @@ const Overlay = styled.div`
     h5{
       transform: translateY(0px);
       opacity: 1;
+      &.copied{
+        color: var(--blue);
+        transform: translateY(0px) scale(1.1);
+      }
     }
     .copy-btn{
       transform: translateY(0px);
