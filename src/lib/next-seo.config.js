@@ -2,9 +2,9 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'uilogos - lorem ipsum for logos',
+        title: 'uilogos - lorem ipsum for logos | free logo placeholder',
         url: 'https://uilogos.co',
-        description: 'More than 25+ professionally designed logos and plugin for dummy logos.',
+        description: 'More than 25+ professionally designed logos and plugin to add dummy logos to your design and mockups.',
         locale: 'en_EN',
         keywords: 'loremipsum, uilogos, logos, logo maker, vijay verma, realvjy, logo placeholder, design, ui, ux, uiux, ui/ux, ui design',
         images: [

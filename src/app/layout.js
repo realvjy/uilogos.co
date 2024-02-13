@@ -11,7 +11,7 @@ export const metadata = {
   metadataBase: new URL(seoData.openGraph.url),
   title: {
     default: seoData.openGraph.title,
-    template: "2023 | %s",
+    template: " %s",
   },
   description: seoData.openGraph.description,
   keywords: seoData.openGraph.keywords,
@@ -21,7 +21,7 @@ export const metadata = {
     url: seoData.openGraph.url,
     title: seoData.openGraph.title,
     locale: "en_EN",
-    siteName: "figbruary",
+    siteName: "uilogos.co",
     images: [
       {
         width: 1200,
