@@ -113,6 +113,10 @@ const FAQWrap = styled.div`
     line-height: 22px;
     letter-spacing: -0.02em;
     margin-bottom: 8px;
+    @media screen and (max-width: 768px) {
+        font-size: 16px;
+        line-height: 20px;
+    }
   }
   h1{
     font-size: 40px;
@@ -122,12 +126,20 @@ const FAQWrap = styled.div`
     text-align: center;
     color: var(--main-black);
     margin-bottom: 8px;
+    @media screen and (max-width: 768px) {
+        font-size: 36px;
+        line-height: 40px;
+    }
   }
   h4{
     color: var(--text-black2);
     text-align: center;
     font-size: 18px;
     font-weight: 400;
+    @media screen and (max-width: 768px) {
+        font-size: 16px;
+        line-height: 20px;
+    }
   }
 `;
 

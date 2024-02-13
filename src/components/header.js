@@ -8,7 +8,7 @@ export default function Header() {
         <HeadSection>
             <Container>
                 <HeadWrap className="border-left-right">
-                    <h3>25+ logos for personal and commercial use</h3>
+                    <h3>25+ free logos for personal and commercial use</h3>
                     <h1>Free Professional Logo Placeholders</h1>
                     <ButtonGroup>
                         <LinkButton href="https://www.figma.com/community/plugin/1120667703468196103" className="blue-btn"><FigmaIcon />figma plugin</LinkButton>
@@ -37,10 +37,14 @@ const HeadWrap = styled.div`
     text-align: center;
     color: var(--blue);
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 22px;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.01em;
     margin-bottom: 8px;
+    @media screen and (max-width: 768px) {
+        font-size: 16px;
+        line-height: 20px;
+    }
   }
   h1{
     font-size: 44px;
@@ -49,6 +53,10 @@ const HeadWrap = styled.div`
     letter-spacing: -0.02em;
     text-align: center;
     color: var(--main-black);
+    @media screen and (max-width: 768px) {
+        font-size: 40px;
+        line-height: 44px;
+    }
   }
 `;
 

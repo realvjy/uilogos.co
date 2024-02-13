@@ -127,7 +127,7 @@ const Toggle = styled.a`
   font-size: 14px;
   line-height: 16px;
   font-weight: 500;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.5px;
   padding: 8px 18px;
   border-radius: 16px;
   background-color: transparent;
@@ -135,6 +135,7 @@ const Toggle = styled.a`
   position: relative;
   overflow: hidden;
   cursor: default;
+  color: var(--main-black);
   &.active{
     color: var(--white);
     background: var(--main-black);
