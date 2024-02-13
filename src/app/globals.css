@@ -1,5 +1,4 @@
 
-
 html,
 body {
   width: 100%;
@@ -10,6 +9,7 @@ body {
   background: var(--bg-gradient);
   background-repeat: no-repeat;
   font-family: var(--font-interDisplay);
+  overflow-x: hidden;
 }
 
 a {
@@ -21,4 +21,13 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
 }

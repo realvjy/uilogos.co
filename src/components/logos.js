@@ -5,6 +5,8 @@ import { CopyIcon, TwitterIcon, UILogosHeart } from "./icons";
 import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/ReuseableStyle";
 import Image from "next/image";
 import LogoBox from "./logo-box";
+import LogoData from '@/data/logo-data';
+import { getFullList } from '@/lib/uilogos';
 
 export default function Logos() {
   const [itemPerRow, setItemPerRow] = useState(2); // Initialize with mobile value
@@ -12,8 +14,10 @@ export default function Logos() {
     console.log('Button clicked');
   }
   let currentRow = 0; // Initialize the current row
-  const LogosData = [1, 2, 4, 5, 6, 7, 8, 12, 11, 7, 12, 19];
 
+  let uilogos = getFullList(LogoData);
+
+  console.log(uilogos);
   useEffect(() => {
     const handleResize = () => {
       // Update itemsPerRow based on screen size
@@ -53,7 +57,7 @@ export default function Logos() {
           <Seprator >
           </Seprator>
           <LogoGrid>
-            {LogosData.map((data, i) => {
+            {uilogos.map((data, i) => {
               if (i % itemPerRow === 0) {
                 // Increment the currentRow when a new row starts
                 currentRow++;
@@ -62,13 +66,12 @@ export default function Logos() {
               }
               // Determine if it's the first or last box in the row
               const isFirstInRow = i % itemPerRow === 0;
-              const isLastInRow = i % itemPerRow === itemPerRow - 1 || i === LogosData.length - 1;
-              const isLastRow = currentRow === Math.ceil(LogosData.length / itemPerRow);
+              const isLastInRow = i % itemPerRow === itemPerRow - 1 || i === uilogos.length - 1;
+              const isLastRow = currentRow === Math.ceil(uilogos.length / itemPerRow);
 
               return (<>
 
                 <LogoBox
-                  imgSrc="/logos/radiyal-t-c.png"
                   data={data}
                   row={currentRow}
                   isFirstInRow={isFirstInRow}

@@ -9,12 +9,13 @@ export default function LogoBox(props) {
   const someButton = () => {
     console.log('Button clicked');
   }
+  const colorType = props.data.style === "black" ? "-black" : "";
   return (
     <LogoSection>
       <LogoItem className={props.isLastInRow ? "" : "border-right"}>
         <LogoWrap>
           <Content>
-            <img src={props.imgSrc} />
+            <img src={"logos/" + `${props.data.type}` + "/" + `${props.data.name}` + colorType + ".png"} />
           </Content>
           <Overlay>
             <h5>CLICK TO COPY</h5>
