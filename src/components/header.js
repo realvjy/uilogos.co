@@ -11,8 +11,8 @@ export default function Header() {
                     <h3>25+ free logos for personal and commercial use</h3>
                     <h1>Free Professional Logo Placeholders</h1>
                     <ButtonGroup>
-                        <LinkButton href="https://www.figma.com/community/plugin/1120667703468196103" className="blue-btn"><FigmaIcon />figma plugin</LinkButton>
-                        <LinkButton href="download/uilogos-v2.0.zip" download="uilogos-v2.0.zip" className="white-btn"><DownloadIcon /> Download .zip</LinkButton>
+                        <LinkButton href="https://www.figma.com/community/plugin/1120667703468196103" className="blue-btn"><FigmaIcon />Figma plugin</LinkButton>
+                        <LinkButton href="https://bit.ly/uilogos-2" download="uilogos-v2.0.zip" className="white-btn"><DownloadIcon /> Download .zip</LinkButton>
                         <LinkButton href="https://github.com/realvjy/uilogos.co" className="white-btn"><GithubIcon /> Get on github</LinkButton>
                     </ButtonGroup>
                 </HeadWrap>

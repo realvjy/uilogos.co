@@ -112,7 +112,7 @@ const LogosWrap = styled.div`
 
 const ToggleBar = styled.div`
   padding: 20px;
-  background: var(--white);
+  background: var(--bg-alpha-a05);
   display: flex;
   justify-content: center;
 `;
@@ -120,7 +120,7 @@ const ToggleBar = styled.div`
 const ToggleWrap = styled.div`
   display: flex;
   align-items: center;
-  gap:4px;
+  gap:8px;
 `;
 
 const Toggle = styled.a`
@@ -136,6 +136,7 @@ const Toggle = styled.a`
   overflow: hidden;
   cursor: default;
   color: var(--main-black);
+  
   &.active{
     color: var(--white);
     background: var(--main-black);

@@ -23,11 +23,12 @@ a {
   }
 }
 
-.main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 6rem;
-  min-height: 100vh;
+main {
+  background-image:
+    url("/header-gradient.svg");
+    background-position:
+    center top; /* this positions the first image */
+    background-repeat:
+    no-repeat; /* this applies to both images */
+  background-size: 1100px auto;
 }

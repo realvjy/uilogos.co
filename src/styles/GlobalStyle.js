@@ -16,6 +16,7 @@ const GlobalStyle = createGlobalStyle`
   --seprator-color-a0: rgba(27,32,35,0.0);
   --box-hover:linear-gradient(180deg, rgba(238, 170, 255, 0.1) 0%, rgba(247,245,251,0)50%), rgba(192,201,220,0.05);
   
+  --bg-alpha-a05: rgba(192,192,200,0.05);
   --main-black: #272727;
   --main-black-a2: rgba(39,39,39, 0.25);
   --text-black2: #626262;

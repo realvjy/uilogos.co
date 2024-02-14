@@ -81,7 +81,7 @@ export default function Faq() {
               open={openIndex === 4}
             >
               <p >
-                You can reach out to me on twitter <a href="https://twitter.com/realvjy">@realvjy</a> for any help or support.
+                You can reach out to me on X / twitter <a href="https://twitter.com/realvjy">@realvjy</a> for any help or support.
               </p>
             </Collapsible>
 
@@ -100,7 +100,7 @@ const FAQSection = styled.div`
 `
 
 const FAQWrap = styled.div`
-  background: var(--white);
+  background: var(--bg-alpha-a05);
   display: flex;
   padding: 40px 20px;
   flex-direction: column;
