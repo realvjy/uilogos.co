@@ -33,7 +33,7 @@ const nextConfig = {
     async headers() {
         return [
             {
-                source: "/uilogos",
+                source: "/uilogos/:path*",
                 headers: [
                     { key: "Access-Control-Allow-Credentials", value: "false" },
                     {
