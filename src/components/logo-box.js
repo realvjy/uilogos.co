@@ -9,9 +9,10 @@ export default function LogoBox(props) {
   const [infoText, setInfoText] = useState('CLICK TO COPY');
   const [isCopy, setIsCopy] = useState(false);
   const colorType = props.data.style === "black" ? "-black" : "";
-
-  const svgSrc = `logos/${props.data.type}/${props.data.name}${colorType}.svg`;
-  const pngSrc = `logos/${props.data.type}/${props.data.name}${colorType}.png`;
+  const imgUrl = "https://pub-e63b17b4d990438a83af58c15949f8a2.r2.dev"
+  const svgSrc = `${imgUrl}/${props.data.type}/${props.data.name}${colorType}.svg`;
+  const pngSrc = `${imgUrl}/${props.data.type}/${props.data.name}${colorType}.png`;
+  // const pngSrc = `${imgUrl}/logos/${props.data.type}/${props.data.name}${colorType}.png`;
 
   const handleCopySvg = () => {
     fetch(svgSrc)
@@ -92,6 +93,9 @@ const LogoItem = styled.div`
   transition: all 0.3s ease;
   &:hover{
     background: var(--box-hover);
+  }
+  @media screen and (max-width: 768px) {
+    min-height: 140px;
   }
 `
 
