@@ -4,6 +4,12 @@ import { DownloadIcon, FigmaIcon, GithubIcon, TwitterIcon, UILogosHeart, CopyIco
 import React, { useState, useEffect } from 'react';
 
 import { Container, Seprator, BoxEm, BoxSeprator, BoxButton } from "@/styles/ReuseableStyle";
+
+function getNonCachedImageUrl(url) {
+  return `${url}?i=${new Date().getTime()}`;
+}
+
+
 export default function LogoBox(props) {
 
   const [infoText, setInfoText] = useState('CLICK TO COPY');
@@ -15,7 +21,7 @@ export default function LogoBox(props) {
   // const pngSrc = `${imgUrl}/logos/${props.data.type}/${props.data.name}${colorType}.png`;
 
   const handleCopySvg = () => {
-    fetch(svgSrc)
+    fetch(getNonCachedImageUrl(svgSrc))
       .then(response => response.text())
       .then(svgCode => {
         navigator.clipboard.writeText(svgCode)
@@ -38,7 +44,7 @@ export default function LogoBox(props) {
 
   const handleCopyPng = async () => {
     try {
-      const response = await fetch(pngSrc);
+      const response = await fetch(getNonCachedImageUrl(pngSrc));
       const blob = await response.blob();
 
       const item = new ClipboardItem({ 'image/png': blob });
