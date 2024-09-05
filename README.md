@@ -17,7 +17,7 @@ Every now and then, we all need a logo as a placeholder for design and don't hav
 
 
 ## Tech Stack for website
-* Coded in NexJS
+* Coded in NextJS
 * Hosted on Vercel
 * This website[(uilogos.co)](https://github.com/realvjy/uilogos.co) source code also available under CC-BY-4.0
 
