@@ -647,7 +647,7 @@
                     "name": "Coca Cola",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/coca cola.png"
+                            "https://uilogos.co/uilogos/brand/color/coca-cola.png"
                         ],
                         "bw": null
                     }
@@ -657,7 +657,7 @@
                     "name": "Creative Cloud",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/creative cloud.png"
+                            "https://uilogos.co/uilogos/brand/color/creative-cloud.png"
                         ],
                         "bw": null
                     }
@@ -697,7 +697,7 @@
                     "name": "Epic Game",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/epic game.png"
+                            "https://uilogos.co/uilogos/brand/color/epic-game.png"
                         ],
                         "bw": null
                     }
@@ -707,7 +707,7 @@
                     "name": "Facebook Icon",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/facebook icon.png"
+                            "https://uilogos.co/uilogos/brand/color/facebook-icon.png"
                         ],
                         "bw": null
                     }
@@ -747,7 +747,7 @@
                     "name": "Google G",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/google g.png"
+                            "https://uilogos.co/uilogos/brand/color/g.png"
                         ],
                         "bw": null
                     }
@@ -767,7 +767,7 @@
                     "name": "Google cloud",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/google cloud.png"
+                            "https://uilogos.co/uilogos/brand/color/google-cloud.png"
                         ],
                         "bw": null
                     }
@@ -937,7 +937,7 @@
                     "name": "Shutter stock",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/shutter stock.png"
+                            "https://uilogos.co/uilogos/brand/color/shutter-stock.png"
                         ],
                         "bw": null
                     }
@@ -1107,7 +1107,7 @@
                     "name": "Github Mark",
                     "variants": {
                         "color": [
-                            "https://uilogos.co/uilogos/brand/color/github mark.png"
+                            "https://uilogos.co/uilogos/brand/color/octicons-github.png"
                         ],
                         "bw": null
                     }
@@ -1176,7 +1176,7 @@
                     "id": "antigua-barbuda-6",
                     "name": "Antigua Barbuda",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/antigua barbuda.png",
+                        "original": "https://uilogos.co/uilogos/flags/antigua-barbuda.png",
                         "square": null
                     }
                 },
@@ -1312,7 +1312,7 @@
                     "id": "bosnia-herzegovina-23",
                     "name": "Bosnia Herzegovina",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/bosnia herzegovina.png",
+                        "original": "https://uilogos.co/uilogos/flags/bosnia-herzegovina.png",
                         "square": null
                     }
                 },
@@ -1320,7 +1320,7 @@
                     "id": "botswana-1-24",
                     "name": "Botswana 1",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/botswana 1.png",
+                        "original": "https://uilogos.co/uilogos/flags/botswana_1.png",
                         "square": null
                     }
                 },
@@ -1352,7 +1352,7 @@
                     "id": "burkina-faso-28",
                     "name": "Burkina Faso",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/burkina faso.png",
+                        "original": "https://uilogos.co/uilogos/flags/burkina-faso.png",
                         "square": null
                     }
                 },
@@ -1392,7 +1392,7 @@
                     "id": "cape-verde-33",
                     "name": "Cape Verde",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/cape verde.png",
+                        "original": "https://uilogos.co/uilogos/flags/cape-verde.png",
                         "square": null
                     }
                 },
@@ -1400,7 +1400,7 @@
                     "id": "central-african-republic-34",
                     "name": "Central African Republic",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/central african republic.png",
+                        "original": "https://uilogos.co/uilogos/flags/central-african-republic.png",
                         "square": null
                     }
                 },
@@ -1448,7 +1448,7 @@
                     "id": "costa-rica-40",
                     "name": "Costa Rica",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/costa rica.png",
+                        "original": "https://uilogos.co/uilogos/flags/costa-rica.png",
                         "square": null
                     }
                 },
@@ -1480,7 +1480,7 @@
                     "id": "czech-republic-44",
                     "name": "Czech Republic",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/czech republic.png",
+                        "original": "https://uilogos.co/uilogos/flags/czech-republic.png",
                         "square": null
                     }
                 },
@@ -1512,7 +1512,7 @@
                     "id": "dominican-republic-48",
                     "name": "Dominican Republic",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/dominican republic.png",
+                        "original": "https://uilogos.co/uilogos/flags/dominican-republic.png",
                         "square": null
                     }
                 },
@@ -1520,7 +1520,7 @@
                     "id": "dr-congo-49",
                     "name": "Dr Congo",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/dr congo.png",
+                        "original": "https://uilogos.co/uilogos/flags/dr-congo.png",
                         "square": null
                     }
                 },
@@ -1528,7 +1528,7 @@
                     "id": "east-timor-50",
                     "name": "East Timor",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/east timor.png",
+                        "original": "https://uilogos.co/uilogos/flags/east-timor.png",
                         "square": null
                     }
                 },
@@ -1552,7 +1552,7 @@
                     "id": "el-salvador-53",
                     "name": "El Salvador",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/el salvador.png",
+                        "original": "https://uilogos.co/uilogos/flags/el-salvador.png",
                         "square": null
                     }
                 },
@@ -1568,7 +1568,7 @@
                     "id": "equatorial-guinea-55",
                     "name": "Equatorial Guinea",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/equatorial guinea.png",
+                        "original": "https://uilogos.co/uilogos/flags/equatorial-guinea.png",
                         "square": null
                     }
                 },
@@ -1688,7 +1688,7 @@
                     "id": "guinea-bissau-70",
                     "name": "Guinea Bissau",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/guinea bissau.png",
+                        "original": "https://uilogos.co/uilogos/flags/guinea-bissau.png",
                         "square": null
                     }
                 },
@@ -1720,7 +1720,7 @@
                     "id": "holy-see-74",
                     "name": "Holy See",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/holy see.png",
+                        "original": "https://uilogos.co/uilogos/flags/holy-see.png",
                         "square": null
                     }
                 },
@@ -2328,7 +2328,7 @@
                     "id": "saint-vincent-and-the-grenadines-150",
                     "name": "Saint Vincent and The Grenadines",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/saint vincent and the grenadines.png",
+                        "original": "https://uilogos.co/uilogos/flags/saint-vincent-and-the-grenadines.png",
                         "square": null
                     }
                 },
@@ -2344,7 +2344,7 @@
                     "id": "san-marino-152",
                     "name": "San Marino",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/san marino.png",
+                        "original": "https://uilogos.co/uilogos/flags/san-marino.png",
                         "square": null
                     }
                 },
@@ -2352,7 +2352,7 @@
                     "id": "sao-tome-and-pr-ncipe-153",
                     "name": "Sao Tome And Príncipe",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/sao tome and príncipe.png",
+                        "original": "https://uilogos.co/uilogos/flags/sao-tome-and-príncipe.png",
                         "square": null
                     }
                 },
@@ -2360,7 +2360,7 @@
                     "id": "saudi-arabia-154",
                     "name": "Saudi Arabia",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/saudi arabia.png",
+                        "original": "https://uilogos.co/uilogos/flags/saudi-arabia.png",
                         "square": null
                     }
                 },
@@ -2392,7 +2392,7 @@
                     "id": "sierra-leone-158",
                     "name": "Sierra Leone",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/sierra leone.png",
+                        "original": "https://uilogos.co/uilogos/flags/sierra-leone.png",
                         "square": null
                     }
                 },
@@ -2424,7 +2424,7 @@
                     "id": "solomon-islands-162",
                     "name": "Solomon Islands",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/solomon islands.png",
+                        "original": "https://uilogos.co/uilogos/flags/solomon-islands.png",
                         "square": null
                     }
                 },
@@ -2432,7 +2432,7 @@
                     "id": "south-africa-163",
                     "name": "South Africa",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/south africa.png",
+                        "original": "https://uilogos.co/uilogos/flags/south-africa.png",
                         "square": null
                     }
                 },
@@ -2440,7 +2440,7 @@
                     "id": "south-korea-164",
                     "name": "South Korea",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/south korea.png",
+                        "original": "https://uilogos.co/uilogos/flags/south-korea.png",
                         "square": null
                     }
                 },
@@ -2448,7 +2448,7 @@
                     "id": "south-sudan-165",
                     "name": "South Sudan",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/south sudan.png",
+                        "original": "https://uilogos.co/uilogos/flags/south-sudan.png",
                         "square": null
                     }
                 },
@@ -2464,7 +2464,7 @@
                     "id": "sri-lanka-167",
                     "name": "Sri Lanka",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/sri lanka.png",
+                        "original": "https://uilogos.co/uilogos/flags/sri-lanka.png",
                         "square": null
                     }
                 },
@@ -2560,7 +2560,7 @@
                     "id": "trinidad-and-tobago-179",
                     "name": "Trinidad and Tobago",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/trinidad and tobago.png",
+                        "original": "https://uilogos.co/uilogos/flags/trinidad-and-tobago.png",
                         "square": null
                     }
                 },
@@ -2616,7 +2616,7 @@
                     "id": "united-states-of-america-186",
                     "name": "United States of America",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/united states of america.png",
+                        "original": "https://uilogos.co/uilogos/flags/united-states-of-america.png",
                         "square": null
                     }
                 },
