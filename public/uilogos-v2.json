@@ -1,0 +1,2690 @@
+{
+    "version": "2.0.0",
+    "encoding": "UTF-8",
+    "metadata": {
+        "created": "18-Dec-2020",
+        "updated": "15-Feb-2024",
+        "author": "vijay verma",
+        "authorUrl": "https://vjy.me",
+        "baseUrl": "https://uilogos.co/",
+        "apiUrl": "https://uilogos.co/uilogos/uilogos-v2.json"
+    },
+    "categories": {
+        "logos": {
+            "name": "Logos",
+            "description": "Collection of various logo designs",
+            "tags": [
+                "text",
+                "mark",
+                "color",
+                "bw"
+            ],
+            "items": [
+                {
+                    "id": "amara-1",
+                    "name": "Amara",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/amara.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/amara.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "asgardia-2",
+                    "name": "Asgardia",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/asgardia.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/asgardia.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/asgardia.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/asgardia.png"
+                        }
+                    }
+                },
+                {
+                    "id": "atica-3",
+                    "name": "Atica",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/atica.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/atica.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/atica.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/atica.png"
+                        }
+                    }
+                },
+                {
+                    "id": "aven-4",
+                    "name": "Aven",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/aven.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/aven.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/aven.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/aven.png"
+                        }
+                    }
+                },
+                {
+                    "id": "circle-5",
+                    "name": "Circle",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/circle.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/circle.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/circle.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/circle.png"
+                        }
+                    }
+                },
+                {
+                    "id": "code-lab-6",
+                    "name": "Code Lab",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/code-lab.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/code-lab.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/code-lab.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/code-lab.png"
+                        }
+                    }
+                },
+                {
+                    "id": "earth-2-0-7",
+                    "name": "Earth 2.0",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/earth-2.0.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/earth-2.0.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "fossa-8",
+                    "name": "Fossa",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/fossa.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/fossa.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/fossa.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/fossa.png"
+                        }
+                    }
+                },
+                {
+                    "id": "fox-hub-9",
+                    "name": "Fox Hub",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/fox-hub.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/fox-hub.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/fox-hub.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/fox-hub.png"
+                        }
+                    }
+                },
+                {
+                    "id": "goldline-10",
+                    "name": "Goldline",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/goldline.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/goldline.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "hex-lab-11",
+                    "name": "Hex Lab",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/hex-lab.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/hex-lab.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/hex-lab.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/hex-lab.png"
+                        }
+                    }
+                },
+                {
+                    "id": "hexa-12",
+                    "name": "Hexa",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/hexa.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/hexa.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/hexa.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/hexa.png"
+                        }
+                    }
+                },
+                {
+                    "id": "ideaa-13",
+                    "name": "Ideaa",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/ideaa.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/ideaa.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/ideaa.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/ideaa.png"
+                        }
+                    }
+                },
+                {
+                    "id": "kanba-14",
+                    "name": "Kanba",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/kanba.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/kanba.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "kyan-15",
+                    "name": "Kyan",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/kyan.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/kyan.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/kyan.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/kyan.png"
+                        }
+                    }
+                },
+                {
+                    "id": "lighting-16",
+                    "name": "Lighting",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/lighting.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/lighting.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/lighting.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/lighting.png"
+                        }
+                    }
+                },
+                {
+                    "id": "liva-17",
+                    "name": "Liva",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/liva.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/liva.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "muzica-18",
+                    "name": "Muzica",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/muzica.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/muzica.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "nirastate-19",
+                    "name": "Nirastate",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/nirastate.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/nirastate.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "solaytic-20",
+                    "name": "Solaytic",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/solaytic.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/solaytic.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/solaytic.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/solaytic.png"
+                        }
+                    }
+                },
+                {
+                    "id": "treva-21",
+                    "name": "Treva",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/treva.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/treva.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/treva.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/treva.png"
+                        }
+                    }
+                },
+                {
+                    "id": "utosia-2-22",
+                    "name": "Utosia 2",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/utosia-2.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/utosia-2.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "utosia-23",
+                    "name": "Utosia",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/utosia.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/utosia.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "velocity-9-24",
+                    "name": "Velocity 9",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/velocity-9.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/velocity-9.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "zoo-tv-25",
+                    "name": "Zoo TV",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/zoo-tv.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/zoo-tv.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "ztos-26",
+                    "name": "Ztos",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/ztos.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/ztos.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "a-lab-27",
+                    "name": "A Lab",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/a-lab.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/a-lab.png"
+                        }
+                    }
+                },
+                {
+                    "id": "earth-2-28",
+                    "name": "Earth 2",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/earth-2.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/earth-2.png"
+                        }
+                    }
+                },
+                {
+                    "id": "earth-29",
+                    "name": "Earth",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/earth.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/earth.png"
+                        }
+                    }
+                },
+                {
+                    "id": "fox-hub-2-30",
+                    "name": "Fox Hub 2",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/fox-hub-2.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/fox-hub-2.png"
+                        }
+                    }
+                },
+                {
+                    "id": "leaf-31",
+                    "name": "Leaf",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/leaf.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/leaf.png"
+                        }
+                    }
+                },
+                {
+                    "id": "muszica-32",
+                    "name": "Muszica",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/muszica.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/muszica.png"
+                        }
+                    }
+                },
+                {
+                    "id": "nira-33",
+                    "name": "Nira",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/nira.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/nira.png"
+                        }
+                    }
+                },
+                {
+                    "id": "tower-34",
+                    "name": "Tower",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/tower.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/tower.png"
+                        }
+                    }
+                },
+                {
+                    "id": "towers-35",
+                    "name": "Towers",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/towers.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/towers.png"
+                        }
+                    }
+                },
+                {
+                    "id": "tvit-36",
+                    "name": "Tvit",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/tvit.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/tvit.png"
+                        }
+                    }
+                },
+                {
+                    "id": "u-mark-37",
+                    "name": "U Mark",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/u-mark.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/u-mark.png"
+                        }
+                    }
+                },
+                {
+                    "id": "volicity-9-38",
+                    "name": "Volicity 9",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/volicity-9.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/volicity-9.png"
+                        }
+                    }
+                }
+            ]
+        },
+        "brands": {
+            "name": "Brands",
+            "description": "Popular brand logos and icons",
+            "tags": [
+                "color",
+                "bw"
+            ],
+            "items": [
+                {
+                    "id": "adobe-1",
+                    "name": "Adobe",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/adobe.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "adobe-2",
+                    "name": "Adobe",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/adobe.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "airbnb-3",
+                    "name": "Airbnb",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/airbnb.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "alphabet-4",
+                    "name": "Alphabet",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/alphabet.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "amd-5",
+                    "name": "AMD",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/amd.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "apple-6",
+                    "name": "Apple",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/apple.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "behance-7",
+                    "name": "behance",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/behance.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "clubhouse-8",
+                    "name": "Clubhouse",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/clubhouse.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "coca-cola-9",
+                    "name": "Coca Cola",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/coca cola.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "creative-cloud-10",
+                    "name": "Creative Cloud",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/creative cloud.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "discord-11",
+                    "name": "Discord",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/discord.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "dribbble-12",
+                    "name": "Dribbble",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/dribbble.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "ebay-13",
+                    "name": "Ebay",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/ebay.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "epic-game-14",
+                    "name": "Epic Game",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/epic game.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "facebook-icon-15",
+                    "name": "Facebook Icon",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/facebook icon.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "facebook-16",
+                    "name": "Facebook",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/facebook.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "figma-17",
+                    "name": "Figma",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/figma.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "firefox-18",
+                    "name": "Firefox",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/firefox.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "google-g-19",
+                    "name": "Google G",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/google g.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "giphy-20",
+                    "name": "Giphy",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/giphy.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "google-cloud-21",
+                    "name": "Google cloud",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/google cloud.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "google-22",
+                    "name": "Google",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/google.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "heroku-23",
+                    "name": "Heroku",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/heroku.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "instagram-24",
+                    "name": "Instagram",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/instagram.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "linkedin-25",
+                    "name": "Linkedin",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/linkedin.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "medium-26",
+                    "name": "Medium",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/medium.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "meta-27",
+                    "name": "Meta",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/meta.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "microsoft-28",
+                    "name": "Microsoft",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/microsoft.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "netflix-29",
+                    "name": "Netflix",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/netflix.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "nintendo-30",
+                    "name": "Nintendo",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/nintendo.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "nvidia-31",
+                    "name": "Nvidia",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/nvidia.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "oculus-32",
+                    "name": "Oculus",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/oculus.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "openai-33",
+                    "name": "Openai",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/openai.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "opensea-34",
+                    "name": "Opensea",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/opensea.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "paypal-35",
+                    "name": "Paypal",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/paypal.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "pinterest-36",
+                    "name": "Pinterest",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/pinterest.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "reddit-37",
+                    "name": "reddit",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/reddit.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "shutter-stock-38",
+                    "name": "Shutter stock",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/shutter stock.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "shutterfly-39",
+                    "name": "Shutterfly",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/shutterfly.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "slack-40",
+                    "name": "Slack",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/slack.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "spotify-41",
+                    "name": "Spotify",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/spotify.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "tencent-42",
+                    "name": "Tencent",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/tencent.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "tiktok-43",
+                    "name": "Tiktok",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/tiktok.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "tinder-44",
+                    "name": "Tinder",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/tinder.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "tux-45",
+                    "name": "Tux",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/tux.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "twitter-46",
+                    "name": "Twitter",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/twitter.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "uber-47",
+                    "name": "Uber",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/uber.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "ubisoft-48",
+                    "name": "Ubisoft",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/ubisoft.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "unsplash-49",
+                    "name": "Unsplash",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/unsplash.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "whatsapp-50",
+                    "name": "Whatsapp",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/whatsapp.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "xbox-51",
+                    "name": "Xbox",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/xbox.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "youtube-52",
+                    "name": "Youtube",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/youtube.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "zoom-53",
+                    "name": "Zoom",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/zoom.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "3dicons-54",
+                    "name": "3dicons",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/3dicons.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "github-mark-55",
+                    "name": "Github Mark",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/github mark.png"
+                        ],
+                        "bw": null
+                    }
+                },
+                {
+                    "id": "github-56",
+                    "name": "Github",
+                    "variants": {
+                        "color": [
+                            "https://uilogos.co/uilogos/brand/color/github.png"
+                        ],
+                        "bw": null
+                    }
+                }
+            ]
+        },
+        "flags": {
+            "name": "Flags",
+            "description": "National and regional flags",
+            "tags": [
+                "original",
+                "square"
+            ],
+            "items": [
+                {
+                    "id": "afghanistan-1",
+                    "name": "Afghanistan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/afghanistan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "albania-2",
+                    "name": "Albania",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/albania.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "algeria-3",
+                    "name": "Algeria",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/algeria.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "andorra-4",
+                    "name": "Andorra",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/andorra.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "angola-5",
+                    "name": "Angola",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/angola.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "antigua-barbuda-6",
+                    "name": "Antigua Barbuda",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/antigua barbuda.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "arab-7",
+                    "name": "Arab",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/arab.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "argentina-8",
+                    "name": "Argentina",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/argentina.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "armenia-9",
+                    "name": "Armenia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/armenia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "australia-10",
+                    "name": "Australia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/australia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "austria-11",
+                    "name": "Austria",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/austria.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "azerbaijan-12",
+                    "name": "Azerbaijan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/azerbaijan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bahamas-13",
+                    "name": "Bahamas",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bahamas.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bahrain-14",
+                    "name": "Bahrain",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bahrain.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bangladesh-15",
+                    "name": "Bangladesh",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bangladesh.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "barbados-16",
+                    "name": "Barbados",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/barbados.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "belarus-17",
+                    "name": "Belarus",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/belarus.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "belgium-18",
+                    "name": "Belgium",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/belgium.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "belize-19",
+                    "name": "Belize",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/belize.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "benin-20",
+                    "name": "Benin",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/benin.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bhutan-21",
+                    "name": "Bhutan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bhutan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bolivia-22",
+                    "name": "Bolivia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bolivia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bosnia-herzegovina-23",
+                    "name": "Bosnia Herzegovina",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bosnia herzegovina.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "botswana-1-24",
+                    "name": "Botswana 1",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/botswana 1.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "botswana-25",
+                    "name": "Botswana",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/botswana.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "brazil-26",
+                    "name": "Brazil",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/brazil.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "bulgaria-27",
+                    "name": "Bulgaria",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/bulgaria.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "burkina-faso-28",
+                    "name": "Burkina Faso",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/burkina faso.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "burundi-29",
+                    "name": "Burundi",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/burundi.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "cambodia-30",
+                    "name": "Cambodia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/cambodia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "cameroon-31",
+                    "name": "Cameroon",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/cameroon.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "canada-32",
+                    "name": "Canada",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/canada.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "cape-verde-33",
+                    "name": "Cape Verde",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/cape verde.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "central-african-republic-34",
+                    "name": "Central African Republic",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/central african republic.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "chad-35",
+                    "name": "Chad",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/chad.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "chile-36",
+                    "name": "Chile",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/chile.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "china-37",
+                    "name": "China",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/china.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "colombia-38",
+                    "name": "Colombia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/colombia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "comoros-39",
+                    "name": "Comoros",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/comoros.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "costa-rica-40",
+                    "name": "Costa Rica",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/costa rica.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "croatia-41",
+                    "name": "Croatia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/croatia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "cuba-42",
+                    "name": "Cuba",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/cuba.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "cyprus-43",
+                    "name": "Cyprus",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/cyprus.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "czech-republic-44",
+                    "name": "Czech Republic",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/czech republic.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "denmark-45",
+                    "name": "Denmark",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/denmark.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "djibouti-46",
+                    "name": "Djibouti",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/djibouti.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "dominica-47",
+                    "name": "Dominica",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/dominica.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "dominican-republic-48",
+                    "name": "Dominican Republic",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/dominican republic.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "dr-congo-49",
+                    "name": "Dr Congo",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/dr congo.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "east-timor-50",
+                    "name": "East Timor",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/east timor.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ecuador-51",
+                    "name": "Ecuador",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ecuador.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "egypt-52",
+                    "name": "Egypt",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/egypt.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "el-salvador-53",
+                    "name": "El Salvador",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/el salvador.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "england-54",
+                    "name": "England",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/england.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "equatorial-guinea-55",
+                    "name": "Equatorial Guinea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/equatorial guinea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "eritrea-56",
+                    "name": "Eritrea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/eritrea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "estonia-57",
+                    "name": "Estonia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/estonia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ethiopia-58",
+                    "name": "Ethiopia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ethiopia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "fiji-59",
+                    "name": "Fiji",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/fiji.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "finland-60",
+                    "name": "Finland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/finland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "france-61",
+                    "name": "France",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/france.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "gabon-62",
+                    "name": "Gabon",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/gabon.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "gambia-63",
+                    "name": "Gambia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/gambia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "georgia-64",
+                    "name": "Georgia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/georgia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "germany-65",
+                    "name": "Germany",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/germany.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ghana-66",
+                    "name": "Ghana",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ghana.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "greece-67",
+                    "name": "Greece",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/greece.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "grenada-68",
+                    "name": "Grenada",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/grenada.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "guatemala-69",
+                    "name": "Guatemala",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/guatemala.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "guinea-bissau-70",
+                    "name": "Guinea Bissau",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/guinea bissau.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "guinea-71",
+                    "name": "Guinea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/guinea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "guyana-72",
+                    "name": "Guyana",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/guyana.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "haiti-73",
+                    "name": "Haiti",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/haiti.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "holy-see-74",
+                    "name": "Holy See",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/holy see.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "honduras-75",
+                    "name": "Honduras",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/honduras.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "hungary-76",
+                    "name": "Hungary",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/hungary.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "iceland-77",
+                    "name": "Iceland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/iceland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "india-78",
+                    "name": "India",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/india.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "indonesia-79",
+                    "name": "Indonesia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/indonesia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "iran-80",
+                    "name": "Iran",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/iran.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "iraq-81",
+                    "name": "Iraq",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/iraq.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ireland-82",
+                    "name": "Ireland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ireland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "israel-83",
+                    "name": "Israel",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/israel.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "italy-84",
+                    "name": "Italy",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/italy.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ivory-coast-85",
+                    "name": "Ivory Coast",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ivory coast.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "jamaica-86",
+                    "name": "Jamaica",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/jamaica.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "japan-87",
+                    "name": "Japan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/japan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "jordan-88",
+                    "name": "Jordan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/jordan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "kazakhstan-89",
+                    "name": "Kazakhstan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/kazakhstan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "kenyan-90",
+                    "name": "Kenyan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/kenyan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "kiribati-91",
+                    "name": "Kiribati",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/kiribati.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "kuwait-92",
+                    "name": "Kuwait",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/kuwait.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "kyrgyzstan-93",
+                    "name": "Kyrgyzstan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/kyrgyzstan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "laos-94",
+                    "name": "Laos",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/laos.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "latvia-95",
+                    "name": "Latvia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/latvia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "lebanon-96",
+                    "name": "Lebanon",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/lebanon.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "lesotho-97",
+                    "name": "Lesotho",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/lesotho.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "liberia-98",
+                    "name": "Liberia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/liberia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "libya-99",
+                    "name": "Libya",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/libya.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "liechtenstein-100",
+                    "name": "Liechtenstein",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/liechtenstein.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "lithuania-101",
+                    "name": "Lithuania",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/lithuania.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "luxembourg-102",
+                    "name": "Luxembourg",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/luxembourg.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "macedonia-103",
+                    "name": "Macedonia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/macedonia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "madagascar-104",
+                    "name": "Madagascar",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/madagascar.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "malawi-105",
+                    "name": "Malawi",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/malawi.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "malaysia-106",
+                    "name": "Malaysia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/malaysia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "maldives-107",
+                    "name": "Maldives",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/maldives.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mali-108",
+                    "name": "Mali",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mali.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "malta-109",
+                    "name": "Malta",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/malta.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "marshall-islands-110",
+                    "name": "Marshall Islands",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/marshall islands.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mauritania-111",
+                    "name": "Mauritania",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mauritania.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mauritius-112",
+                    "name": "Mauritius",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mauritius.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mexico-113",
+                    "name": "Mexico",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mexico.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "micronesia-114",
+                    "name": "Micronesia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/micronesia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "moldova-115",
+                    "name": "Moldova",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/moldova.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "monaco-116",
+                    "name": "Monaco",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/monaco.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mongolia-117",
+                    "name": "Mongolia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mongolia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "montenegro-118",
+                    "name": "Montenegro",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/montenegro.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "morocco-119",
+                    "name": "Morocco",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/morocco.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "mozambique-120",
+                    "name": "Mozambique",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/mozambique.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "myanmar-121",
+                    "name": "Myanmar",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/myanmar.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "namibia-122",
+                    "name": "Namibia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/namibia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "nauru-123",
+                    "name": "Nauru",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/nauru.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "nepal-124",
+                    "name": "Nepal",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/nepal.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "netherlands-125",
+                    "name": "Netherlands",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/netherlands.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "new-zealand-126",
+                    "name": "New Zealand",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/new zealand.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "nicaragua-127",
+                    "name": "Nicaragua",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/nicaragua.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "niger-128",
+                    "name": "Niger",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/niger.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "nigeria-129",
+                    "name": "Nigeria",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/nigeria.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "north-korea-130",
+                    "name": "North Korea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/north korea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "norway-131",
+                    "name": "Norway",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/norway.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "oman-132",
+                    "name": "Oman",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/oman.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "pakistan-133",
+                    "name": "Pakistan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/pakistan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "palau-134",
+                    "name": "Palau",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/palau.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "palestine-135",
+                    "name": "Palestine",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/palestine.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "panama-136",
+                    "name": "Panama",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/panama.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "papua-new-guinea-137",
+                    "name": "Papua New Guinea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/papua new guinea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "paraguay-138",
+                    "name": "Paraguay",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/paraguay.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "peru-139",
+                    "name": "Peru",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/peru.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "philippines-140",
+                    "name": "Philippines",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/philippines.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "poland-141",
+                    "name": "Poland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/poland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "portugal-142",
+                    "name": "Portugal",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/portugal.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "qatar-143",
+                    "name": "Qatar",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/qatar.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "rebublic-congo-144",
+                    "name": "Rebublic Congo",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/rebublic congo.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "romania-145",
+                    "name": "Romania",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/romania.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "russia-146",
+                    "name": "Russia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/russia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "rwanda-147",
+                    "name": "Rwanda",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/rwanda.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "saint-kitts-and-nevis-148",
+                    "name": "Saint Kitts and Nevis",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/saint kitts and nevis.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "saint-lucia-149",
+                    "name": "Saint Lucia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/saint lucia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "saint-vincent-and-the-grenadines-150",
+                    "name": "Saint Vincent and The Grenadines",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/saint vincent and the grenadines.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "samoa-151",
+                    "name": "Samoa",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/samoa.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "san-marino-152",
+                    "name": "San Marino",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/san marino.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "sao-tome-and-pr-ncipe-153",
+                    "name": "Sao Tome And Príncipe",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/sao tome and príncipe.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "saudi-arabia-154",
+                    "name": "Saudi Arabia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/saudi arabia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "senegal-155",
+                    "name": "Senegal",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/senegal.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "serbia-156",
+                    "name": "Serbia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/serbia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "seychelles-157",
+                    "name": "Seychelles",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/seychelles.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "sierra-leone-158",
+                    "name": "Sierra Leone",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/sierra leone.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "singapore-159",
+                    "name": "Singapore",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/singapore.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "slovakia-160",
+                    "name": "Slovakia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/slovakia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "slovenia-161",
+                    "name": "Slovenia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/slovenia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "solomon-islands-162",
+                    "name": "Solomon Islands",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/solomon islands.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "south-africa-163",
+                    "name": "South Africa",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/south africa.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "south-korea-164",
+                    "name": "South Korea",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/south korea.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "south-sudan-165",
+                    "name": "South Sudan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/south sudan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "spain-166",
+                    "name": "Spain",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/spain.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "sri-lanka-167",
+                    "name": "Sri Lanka",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/sri lanka.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "sudan-168",
+                    "name": "Sudan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/sudan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "suriname-169",
+                    "name": "Suriname",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/suriname.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "swaziland-170",
+                    "name": "Swaziland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/swaziland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "sweden-171",
+                    "name": "Sweden",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/sweden.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "switzerland-172",
+                    "name": "Switzerland",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/switzerland.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "syria-173",
+                    "name": "Syria",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/syria.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "tajikistan-174",
+                    "name": "Tajikistan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/tajikistan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "tanzania-175",
+                    "name": "Tanzania",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/tanzania.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "thailand-176",
+                    "name": "Thailand",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/thailand.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "togo-177",
+                    "name": "Togo",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/togo.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "tonga-178",
+                    "name": "Tonga",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/tonga.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "trinidad-and-tobago-179",
+                    "name": "Trinidad and Tobago",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/trinidad and tobago.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "tunisia-180",
+                    "name": "Tunisia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/tunisia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "turkey-181",
+                    "name": "Turkey",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/turkey.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "turkmenistan-182",
+                    "name": "Turkmenistan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/turkmenistan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "tuvalu-183",
+                    "name": "Tuvalu",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/tuvalu.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "uganda-184",
+                    "name": "Uganda",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/uganda.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "ukraine-185",
+                    "name": "Ukraine",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/ukraine.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "united-states-of-america-186",
+                    "name": "United States of America",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/united states of america.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "uruguay-187",
+                    "name": "Uruguay",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/uruguay.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "uzbekistan-188",
+                    "name": "Uzbekistan",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/uzbekistan.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "vanuatu-189",
+                    "name": "Vanuatu",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/vanuatu.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "venezuela-190",
+                    "name": "Venezuela",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/venezuela.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "vietnam-191",
+                    "name": "Vietnam",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/vietnam.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "yemen-192",
+                    "name": "Yemen",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/yemen.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "zambia-193",
+                    "name": "Zambia",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/zambia.png",
+                        "square": null
+                    }
+                },
+                {
+                    "id": "zimbabwe-194",
+                    "name": "Zimbabwe",
+                    "variants": {
+                        "original": "https://uilogos.co/uilogos/flags/zimbabwe.png",
+                        "square": null
+                    }
+                }
+            ]
+        }
+    }
+}
