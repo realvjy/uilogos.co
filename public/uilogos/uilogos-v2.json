@@ -563,20 +563,6 @@
             ],
             "items": [
                 {
-                    "id": "3dicons-4",
-                    "name": "Three 3dicons",
-                    "variants": {
-                        "text": {
-                            "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
-                            "bw": null
-                        },
-                        "mark": {
-                            "color": "https://uilogos.co/uilogos/brand/mark/color/3dicons.png",
-                            "bw": null
-                        }
-                    }
-                },
-                {
                     "id": "adobe-1",
                     "name": "Adobe",
                     "variants": {
@@ -1356,6 +1342,20 @@
                         },
                         "mark": {
                             "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "3dicons-60",
+                    "name": "Three 3dicons",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/3dicons.png",
                             "bw": null
                         }
                     }
