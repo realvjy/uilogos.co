@@ -571,7 +571,7 @@
                             "bw": null
                         },
                         "mark": {
-                            "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/3dicons.png",
                             "bw": null
                         }
                     }
@@ -585,8 +585,8 @@
                             "bw": "https://uilogos.co/uilogos/brand/text/black/adobe.png"
                         },
                         "mark": {
-                            "color": "https://uilogos.co/uilogos/brand/text/color/adobe.png",
-                            "bw": "https://uilogos.co/uilogos/brand/text/black/adobe.png"
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/adobe.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/adobe.png"
                         }
                     }
                 },
