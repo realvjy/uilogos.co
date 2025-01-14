@@ -599,14 +599,14 @@
                             "bw": "https://uilogos.co/uilogos/brand/text/black/airbnb.png"
                         },
                         "mark": {
-                            "color": "https://uilogos.co/uilogos/brand/text/color/airbnb.png",
-                            "bw": "https://uilogos.co/uilogos/brand/text/black/airbnb.png"
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/airbnb.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/airbnb.png"
                         }
                     }
                 },
                 {
                     "id": "alphabet-7",
-                    "name": "Airbnb",
+                    "name": "Alphabet",
                     "variants": {
                         "text": {
                             "color": "https://uilogos.co/uilogos/brand/text/color/alphabet.png",
@@ -1348,7 +1348,7 @@
                 },
                 {
                     "id": "3dicons-60",
-                    "name": "Three 3dicons",
+                    "name": "3dicons.co",
                     "variants": {
                         "text": {
                             "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
