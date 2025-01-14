@@ -563,8 +563,8 @@
             ],
             "items": [
                 {
-                    "id": "3dicons-1",
-                    "name": "3dicons",
+                    "id": "3dicons-4",
+                    "name": "Three 3dicons",
                     "variants": {
                         "text": {
                             "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
@@ -577,7 +577,7 @@
                     }
                 },
                 {
-                    "id": "adobe-4",
+                    "id": "adobe-1",
                     "name": "Adobe",
                     "variants": {
                         "text": {
@@ -599,8 +599,8 @@
                             "bw": null
                         },
                         "mark": {
-                            "color": "https://uilogos.co/uilogos/brand/text/color/adobe-creative-cloud.png",
-                            "bw": "https://uilogos.co/uilogos/brand/text/black/adobe-creative-cloud.png"
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/adobe-creative-cloud.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/adobe-creative-cloud.png"
                         }
                     }
                 },
@@ -2550,7 +2550,7 @@
                     "id": "saint-kitts-and-nevis-148",
                     "name": "Saint Kitts and Nevis",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/saint kitts and nevis.png",
+                        "original": "https://uilogos.co/uilogos/flags/saint-kitts-and-nevis.png",
                         "square": null
                     }
                 },
@@ -2558,7 +2558,7 @@
                     "id": "saint-lucia-149",
                     "name": "Saint Lucia",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/saint lucia.png",
+                        "original": "https://uilogos.co/uilogos/flags/saint-lucia.png",
                         "square": null
                     }
                 },
@@ -2590,7 +2590,7 @@
                     "id": "sao-tome-and-pr-ncipe-153",
                     "name": "Sao Tome And Príncipe",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/sao-tome-and-príncipe.png",
+                        "original": "https://uilogos.co/uilogos/flags/sao-tome-and-principe.png",
                         "square": null
                     }
                 },
