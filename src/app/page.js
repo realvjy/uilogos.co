@@ -84,9 +84,7 @@ function formatLogoData() {
 
 export default function Home() {
 
-  const logoData = formatLogoData();
 
-  console.log(logoData);
 
   return (
     <main >
