@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "next": "14.1.0",
     "next-seo": "^6.4.0",
     "nextjs-google-analytics": "^2.3.3",
+    "path": "^0.12.7",
     "react": "^18",
     "react-collapsible": "^2.10.0",
     "react-dom": "^18",

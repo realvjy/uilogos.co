@@ -563,563 +563,801 @@
             ],
             "items": [
                 {
-                    "id": "adobe-1",
-                    "name": "Adobe",
+                    "id": "3dicons-1",
+                    "name": "3dicons",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/adobe.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/3dicons.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "adobe-2",
+                    "id": "adobe-4",
                     "name": "Adobe",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/adobe.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/adobe.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/adobe.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/adobe.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/adobe.png"
+                        }
                     }
                 },
                 {
-                    "id": "airbnb-3",
+                    "id": "adobe-creative-cloud-5",
+                    "name": "Adobe creativecloud",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/adobe-creative-cloud.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/adobe-creative-cloud.png"
+                        }
+                    }
+                },
+                {
+                    "id": "airbnb-6",
                     "name": "Airbnb",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/airbnb.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/airbnb.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/airbnb.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/airbnb.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/airbnb.png"
+                        }
                     }
                 },
                 {
-                    "id": "alphabet-4",
-                    "name": "Alphabet",
+                    "id": "alphabet-7",
+                    "name": "Airbnb",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/alphabet.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/alphabet.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/alphabet.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "amd-5",
+                    "id": "amd-8",
                     "name": "AMD",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/amd.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/amd.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/amd.png"
+                        }
                     }
                 },
                 {
-                    "id": "apple-6",
+                    "id": "apple-9",
                     "name": "Apple",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/apple.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/apple.png"
+                        }
                     }
                 },
                 {
-                    "id": "behance-7",
-                    "name": "behance",
+                    "id": "behance-10",
+                    "name": "Behance",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/behance.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/behance.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/behance.png"
+                        }
                     }
                 },
                 {
-                    "id": "clubhouse-8",
-                    "name": "Clubhouse",
+                    "id": "bluesky-11",
+                    "name": "Bluesky",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/clubhouse.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/bluesky.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/bluesky.png"
+                        }
                     }
                 },
                 {
-                    "id": "coca-cola-9",
+                    "id": "coca-cola-12",
                     "name": "Coca Cola",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/coca-cola.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/coca-cola.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/coca-cola.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "creative-cloud-10",
-                    "name": "Creative Cloud",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/creative-cloud.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "discord-11",
+                    "id": "discord-13",
                     "name": "Discord",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/discord.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/discord.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/discord.png"
+                        }
                     }
                 },
                 {
-                    "id": "dribbble-12",
+                    "id": "dribbble-14",
                     "name": "Dribbble",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/dribbble.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/dribbble.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "ebay-13",
+                    "id": "ebay-15",
                     "name": "Ebay",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/ebay.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "epic-game-14",
-                    "name": "Epic Game",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/epic-game.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "facebook-icon-15",
-                    "name": "Facebook Icon",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/facebook-icon.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/ebay.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/ebay.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
                     "id": "facebook-16",
                     "name": "Facebook",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/facebook.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/facebook.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/facebook.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/facebook.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/facebook.png"
+                        }
                     }
                 },
                 {
                     "id": "figma-17",
                     "name": "Figma",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/figma.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/figma.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/figma.png"
+                        }
                     }
                 },
                 {
                     "id": "firefox-18",
                     "name": "Firefox",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/firefox.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/firefox.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "google-g-19",
-                    "name": "Google G",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/g.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "giphy-20",
+                    "id": "giphy-19",
                     "name": "Giphy",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/giphy.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/giphy.png",
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/giphy.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "google-cloud-21",
-                    "name": "Google cloud",
+                    "id": "github-20",
+                    "name": "Github",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/google-cloud.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/github.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "google-22",
+                    "id": "google-21",
                     "name": "Google",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/google.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/google.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/google.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/google.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/google.png"
+                        }
                     }
                 },
                 {
-                    "id": "heroku-23",
-                    "name": "Heroku",
+                    "id": "google-cloud-22",
+                    "name": "Google-cloud",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/heroku.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/google-cloud.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/google-cloud.png"
+                        }
                     }
                 },
                 {
-                    "id": "instagram-24",
+                    "id": "instagram-23",
                     "name": "Instagram",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/instagram.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/instagram.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/instagram.png"
+                        }
                     }
                 },
                 {
-                    "id": "linkedin-25",
+                    "id": "linkedin-24",
                     "name": "Linkedin",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/linkedin.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/linkedin.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/linkedin.png"
+                        }
                     }
                 },
                 {
-                    "id": "medium-26",
+                    "id": "medium-25",
                     "name": "Medium",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/medium.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/medium.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/medium.png"
+                        }
                     }
                 },
                 {
-                    "id": "meta-27",
+                    "id": "meta-26",
                     "name": "Meta",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/meta.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/meta.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/meta.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/meta.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/meta.png"
+                        }
                     }
                 },
                 {
-                    "id": "microsoft-28",
+                    "id": "microsoft-27",
                     "name": "Microsoft",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/microsoft.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/microsoft.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/microsoft.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/microsoft.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/microsoft.png"
+                        }
                     }
                 },
                 {
-                    "id": "netflix-29",
+                    "id": "netflix-28",
                     "name": "Netflix",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/netflix.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/netflix.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/netflix.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/netflix.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/netflix.png"
+                        }
+                    }
+                },
+                {
+                    "id": "nextjs-29",
+                    "name": "Nextjs",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/nextjs.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
                     "id": "nintendo-30",
                     "name": "Nintendo",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/nintendo.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/nintendo.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/nintendo.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
                     "id": "nvidia-31",
                     "name": "Nvidia",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/nvidia.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/nvidia.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/nvidia.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "oculus-32",
+                    "id": "octicons-github-32",
+                    "name": "Octicons-github",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/octicons-github.png"
+                        }
+                    }
+                },
+                {
+                    "id": "oculus-33",
                     "name": "Oculus",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/oculus.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/oculus.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "openai-33",
+                    "id": "openai-34",
                     "name": "Openai",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/openai.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/openai.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/openai.png"
+                        }
                     }
                 },
                 {
-                    "id": "opensea-34",
-                    "name": "Opensea",
+                    "id": "patreon-35",
+                    "name": "Patreon",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/opensea.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/patreon.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/patreon.png"
+                        }
                     }
                 },
                 {
-                    "id": "paypal-35",
+                    "id": "paypal-36",
                     "name": "Paypal",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/paypal.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/paypal.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/paypal.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "pinterest-36",
+                    "id": "pinterest-37",
                     "name": "Pinterest",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/pinterest.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/pinterest.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/pinterest.png"
+                        }
                     }
                 },
                 {
-                    "id": "reddit-37",
-                    "name": "reddit",
+                    "id": "reddit-38",
+                    "name": "Reddit",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/reddit.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/reddit.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/reddit.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/reddit.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "shutter-stock-38",
-                    "name": "Shutter stock",
+                    "id": "shutter-stock-39",
+                    "name": "Shutter-stock",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/shutter-stock.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/shutter-stock.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/shutter-stock.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "shutterfly-39",
+                    "id": "shutterfly-40",
                     "name": "Shutterfly",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/shutterfly.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/shutterfly.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/shutterfly.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "slack-40",
+                    "id": "sketch-41",
+                    "name": "Sketch",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/sketch.png",
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "slack-42",
                     "name": "Slack",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/slack.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/slack.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/slack.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/slack.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/slack.png"
+                        }
                     }
                 },
                 {
-                    "id": "spotify-41",
+                    "id": "spotify-43",
                     "name": "Spotify",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/spotify.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/spotify.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/spotify.png"
+                        }
                     }
                 },
                 {
-                    "id": "tencent-42",
+                    "id": "tencent-44",
                     "name": "Tencent",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/tencent.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/tencent.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/tencent.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "tiktok-43",
+                    "id": "threads-45",
+                    "name": "Threads",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/threads.png"
+                        }
+                    }
+                },
+                {
+                    "id": "tiktok-46",
                     "name": "Tiktok",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/tiktok.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/tiktok.png",
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/tiktok.png",
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "tinder-44",
+                    "id": "tinder-47",
                     "name": "Tinder",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/tinder.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/tinder.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/tinder.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "tux-45",
-                    "name": "Tux",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/tux.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "twitter-46",
+                    "id": "twitter-48",
                     "name": "Twitter",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/twitter.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/twitter.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/twitter.png"
+                        }
                     }
                 },
                 {
-                    "id": "uber-47",
+                    "id": "uber-49",
                     "name": "Uber",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/uber.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/uber.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/uber.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 },
                 {
-                    "id": "ubisoft-48",
+                    "id": "ubisoft-50",
                     "name": "Ubisoft",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/ubisoft.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/ubisoft.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/ubisoft.png"
+                        }
                     }
                 },
                 {
-                    "id": "unsplash-49",
+                    "id": "unsplash-51",
                     "name": "Unsplash",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/unsplash.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/unsplash.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/unsplash.png"
+                        }
                     }
                 },
                 {
-                    "id": "whatsapp-50",
+                    "id": "vercel-52",
+                    "name": "Vercel",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/vercel.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/vercel.png"
+                        }
+                    }
+                },
+                {
+                    "id": "webflow-53",
+                    "name": "Webflow",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/webflow.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/webflow.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/webflow.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/webflow.png"
+                        }
+                    }
+                },
+                {
+                    "id": "whatsapp-54",
                     "name": "Whatsapp",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/whatsapp.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/whatsapp.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/whatsapp.png"
+                        }
                     }
                 },
                 {
-                    "id": "xbox-51",
+                    "id": "x-55",
+                    "name": "X",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": null
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/x.png"
+                        }
+                    }
+                },
+                {
+                    "id": "xbox-56",
                     "name": "Xbox",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/xbox.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/xbox.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/xbox.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/xbox.png"
+                        }
                     }
                 },
                 {
-                    "id": "youtube-52",
+                    "id": "youtube-57",
                     "name": "Youtube",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/youtube.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/youtube.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/youtube.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/brand/mark/color/youtube.png",
+                            "bw": "https://uilogos.co/uilogos/brand/mark/black/youtube.png"
+                        }
                     }
                 },
                 {
-                    "id": "zoom-53",
+                    "id": "zomato-58",
+                    "name": "Zomato",
+                    "variants": {
+                        "text": {
+                            "color": null,
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/zomato.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
+                    }
+                },
+                {
+                    "id": "zoom-59",
                     "name": "Zoom",
                     "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/zoom.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "3dicons-54",
-                    "name": "3dicons",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/3dicons.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "github-mark-55",
-                    "name": "Github Mark",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/octicons-github.png"
-                        ],
-                        "bw": null
-                    }
-                },
-                {
-                    "id": "github-56",
-                    "name": "Github",
-                    "variants": {
-                        "color": [
-                            "https://uilogos.co/uilogos/brand/color/github.png"
-                        ],
-                        "bw": null
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/brand/text/color/zoom.png",
+                            "bw": "https://uilogos.co/uilogos/brand/text/black/zoom.png"
+                        },
+                        "mark": {
+                            "color": null,
+                            "bw": null
+                        }
                     }
                 }
             ]
