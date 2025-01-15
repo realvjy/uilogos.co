@@ -53,8 +53,8 @@
                     "name": "Atica",
                     "variants": {
                         "text": {
-                            "color": "https://uilogos.co/uilogos/full-logo/color/atica.png",
-                            "bw": "https://uilogos.co/uilogos/full-logo/black/atica.png"
+                            "color": null,
+                            "bw": null
                         },
                         "mark": {
                             "color": "https://uilogos.co/uilogos/mark/color/atica.png",
@@ -123,8 +123,8 @@
                     "name": "Fossa",
                     "variants": {
                         "text": {
-                            "color": "https://uilogos.co/uilogos/full-logo/color/fossa.png",
-                            "bw": "https://uilogos.co/uilogos/full-logo/black/fossa.png"
+                            "color": null,
+                            "bw": null
                         },
                         "mark": {
                             "color": "https://uilogos.co/uilogos/mark/color/fossa.png",
@@ -2046,7 +2046,7 @@
                     "id": "ivory-coast-85",
                     "name": "Ivory Coast",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/ivory coast.png",
+                        "original": "https://uilogos.co/uilogos/flags/ivory-coast.png",
                         "square": null
                     }
                 },
@@ -2246,7 +2246,7 @@
                     "id": "marshall-islands-110",
                     "name": "Marshall Islands",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/marshall islands.png",
+                        "original": "https://uilogos.co/uilogos/flags/marshall-islands.png",
                         "square": null
                     }
                 },
@@ -2374,7 +2374,7 @@
                     "id": "new-zealand-126",
                     "name": "New Zealand",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/new zealand.png",
+                        "original": "https://uilogos.co/uilogos/flags/new-zealand.png",
                         "square": null
                     }
                 },
@@ -2406,7 +2406,7 @@
                     "id": "north-korea-130",
                     "name": "North Korea",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/north korea.png",
+                        "original": "https://uilogos.co/uilogos/flags/north-korea.png",
                         "square": null
                     }
                 },
@@ -2462,7 +2462,7 @@
                     "id": "papua-new-guinea-137",
                     "name": "Papua New Guinea",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/papua new guinea.png",
+                        "original": "https://uilogos.co/uilogos/flags/papua-new-guinea.png",
                         "square": null
                     }
                 },
@@ -2518,7 +2518,7 @@
                     "id": "rebublic-congo-144",
                     "name": "Rebublic Congo",
                     "variants": {
-                        "original": "https://uilogos.co/uilogos/flags/rebublic congo.png",
+                        "original": "https://uilogos.co/uilogos/flags/rebublic-congo.png",
                         "square": null
                     }
                 },
