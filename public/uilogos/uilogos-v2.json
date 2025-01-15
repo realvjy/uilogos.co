@@ -21,7 +21,63 @@
             ],
             "items": [
                 {
-                    "id": "amara-1",
+                    "id": "radiyal-1",
+                    "name": "Radiyal",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/radiyal.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/radiyal.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/radiyal.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/radiyal.png"
+                        }
+                    }
+                },
+                {
+                    "id": "acme-2",
+                    "name": "Acme",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/acme.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/acme.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/acme.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/acme.png"
+                        }
+                    }
+                },
+                {
+                    "id": "stari-3",
+                    "name": "Stari",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/stari.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/stari.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/stari.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/stari.png"
+                        }
+                    }
+                },
+                {
+                    "id": "hooks-4",
+                    "name": "hooks",
+                    "variants": {
+                        "text": {
+                            "color": "https://uilogos.co/uilogos/full-logo/color/hooks.png",
+                            "bw": "https://uilogos.co/uilogos/full-logo/black/hooks.png"
+                        },
+                        "mark": {
+                            "color": "https://uilogos.co/uilogos/mark/color/hooks.png",
+                            "bw": "https://uilogos.co/uilogos/mark/black/hooks.png"
+                        }
+                    }
+                },
+                {
+                    "id": "amara-5",
                     "name": "Amara",
                     "variants": {
                         "text": {
@@ -35,7 +91,7 @@
                     }
                 },
                 {
-                    "id": "asgardia-2",
+                    "id": "asgardia-6",
                     "name": "Asgardia",
                     "variants": {
                         "text": {
@@ -49,7 +105,7 @@
                     }
                 },
                 {
-                    "id": "atica-3",
+                    "id": "atica-7",
                     "name": "Atica",
                     "variants": {
                         "text": {
@@ -63,7 +119,7 @@
                     }
                 },
                 {
-                    "id": "aven-4",
+                    "id": "aven-8",
                     "name": "Aven",
                     "variants": {
                         "text": {
@@ -77,7 +133,7 @@
                     }
                 },
                 {
-                    "id": "circle-5",
+                    "id": "circle-9",
                     "name": "Circle",
                     "variants": {
                         "text": {
@@ -91,7 +147,7 @@
                     }
                 },
                 {
-                    "id": "code-lab-6",
+                    "id": "code-lab-10",
                     "name": "Code Lab",
                     "variants": {
                         "text": {
@@ -119,7 +175,7 @@
                     }
                 },
                 {
-                    "id": "fossa-8",
+                    "id": "fossa-11",
                     "name": "Fossa",
                     "variants": {
                         "text": {
@@ -133,7 +189,7 @@
                     }
                 },
                 {
-                    "id": "fox-hub-9",
+                    "id": "fox-hub-12",
                     "name": "Fox Hub",
                     "variants": {
                         "text": {
@@ -147,7 +203,7 @@
                     }
                 },
                 {
-                    "id": "goldline-10",
+                    "id": "goldline-13",
                     "name": "Goldline",
                     "variants": {
                         "text": {
@@ -161,7 +217,7 @@
                     }
                 },
                 {
-                    "id": "hex-lab-11",
+                    "id": "hex-lab-14",
                     "name": "Hex Lab",
                     "variants": {
                         "text": {
@@ -175,7 +231,7 @@
                     }
                 },
                 {
-                    "id": "hexa-12",
+                    "id": "hexa-15",
                     "name": "Hexa",
                     "variants": {
                         "text": {
@@ -189,7 +245,7 @@
                     }
                 },
                 {
-                    "id": "ideaa-13",
+                    "id": "ideaa-16",
                     "name": "Ideaa",
                     "variants": {
                         "text": {
@@ -203,7 +259,7 @@
                     }
                 },
                 {
-                    "id": "kanba-14",
+                    "id": "kanba-17",
                     "name": "Kanba",
                     "variants": {
                         "text": {
@@ -217,7 +273,7 @@
                     }
                 },
                 {
-                    "id": "kyan-15",
+                    "id": "kyan-18",
                     "name": "Kyan",
                     "variants": {
                         "text": {
@@ -231,7 +287,7 @@
                     }
                 },
                 {
-                    "id": "lighting-16",
+                    "id": "lighting-19",
                     "name": "Lighting",
                     "variants": {
                         "text": {
@@ -245,7 +301,7 @@
                     }
                 },
                 {
-                    "id": "liva-17",
+                    "id": "liva-20",
                     "name": "Liva",
                     "variants": {
                         "text": {
@@ -259,7 +315,7 @@
                     }
                 },
                 {
-                    "id": "muzica-18",
+                    "id": "muzica-21",
                     "name": "Muzica",
                     "variants": {
                         "text": {
@@ -273,7 +329,7 @@
                     }
                 },
                 {
-                    "id": "nirastate-19",
+                    "id": "nirastate-22",
                     "name": "Nirastate",
                     "variants": {
                         "text": {
@@ -287,7 +343,7 @@
                     }
                 },
                 {
-                    "id": "solaytic-20",
+                    "id": "solaytic-23",
                     "name": "Solaytic",
                     "variants": {
                         "text": {
@@ -301,7 +357,7 @@
                     }
                 },
                 {
-                    "id": "treva-21",
+                    "id": "treva-24",
                     "name": "Treva",
                     "variants": {
                         "text": {
@@ -315,7 +371,7 @@
                     }
                 },
                 {
-                    "id": "utosia-2-22",
+                    "id": "utosia-2-25",
                     "name": "Utosia 2",
                     "variants": {
                         "text": {
@@ -329,7 +385,7 @@
                     }
                 },
                 {
-                    "id": "utosia-23",
+                    "id": "utosia-26",
                     "name": "Utosia",
                     "variants": {
                         "text": {
@@ -343,7 +399,7 @@
                     }
                 },
                 {
-                    "id": "velocity-9-24",
+                    "id": "velocity-9-27",
                     "name": "Velocity 9",
                     "variants": {
                         "text": {
@@ -357,7 +413,7 @@
                     }
                 },
                 {
-                    "id": "zoo-tv-25",
+                    "id": "zoo-tv-28",
                     "name": "Zoo TV",
                     "variants": {
                         "text": {
@@ -371,7 +427,7 @@
                     }
                 },
                 {
-                    "id": "ztos-26",
+                    "id": "ztos-29",
                     "name": "Ztos",
                     "variants": {
                         "text": {
@@ -385,7 +441,7 @@
                     }
                 },
                 {
-                    "id": "a-lab-27",
+                    "id": "a-lab-30",
                     "name": "A Lab",
                     "variants": {
                         "text": {
@@ -399,7 +455,7 @@
                     }
                 },
                 {
-                    "id": "earth-2-28",
+                    "id": "earth-2-31",
                     "name": "Earth 2",
                     "variants": {
                         "text": {
@@ -413,7 +469,7 @@
                     }
                 },
                 {
-                    "id": "earth-29",
+                    "id": "earth-32",
                     "name": "Earth",
                     "variants": {
                         "text": {
@@ -427,7 +483,7 @@
                     }
                 },
                 {
-                    "id": "fox-hub-2-30",
+                    "id": "fox-hub-2-33",
                     "name": "Fox Hub 2",
                     "variants": {
                         "text": {
@@ -441,7 +497,7 @@
                     }
                 },
                 {
-                    "id": "leaf-31",
+                    "id": "leaf-34",
                     "name": "Leaf",
                     "variants": {
                         "text": {
@@ -455,7 +511,7 @@
                     }
                 },
                 {
-                    "id": "muszica-32",
+                    "id": "muszica-35",
                     "name": "Muszica",
                     "variants": {
                         "text": {
@@ -469,7 +525,7 @@
                     }
                 },
                 {
-                    "id": "nira-33",
+                    "id": "nira-36",
                     "name": "Nira",
                     "variants": {
                         "text": {
@@ -483,7 +539,7 @@
                     }
                 },
                 {
-                    "id": "tower-34",
+                    "id": "tower-37",
                     "name": "Tower",
                     "variants": {
                         "text": {
@@ -497,7 +553,7 @@
                     }
                 },
                 {
-                    "id": "towers-35",
+                    "id": "towers-38",
                     "name": "Towers",
                     "variants": {
                         "text": {
@@ -511,7 +567,7 @@
                     }
                 },
                 {
-                    "id": "tvit-36",
+                    "id": "tvit-39",
                     "name": "Tvit",
                     "variants": {
                         "text": {
@@ -525,7 +581,7 @@
                     }
                 },
                 {
-                    "id": "u-mark-37",
+                    "id": "u-mark-40",
                     "name": "U Mark",
                     "variants": {
                         "text": {
@@ -539,7 +595,7 @@
                     }
                 },
                 {
-                    "id": "volicity-9-38",
+                    "id": "volicity-9-41",
                     "name": "Volicity 9",
                     "variants": {
                         "text": {
